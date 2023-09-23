@@ -1,5 +1,5 @@
 {
-    "name": "milad/rabbit-mq",
+    "name": "miladmmd/rabbit-mq",
     "autoload": {
         "psr-4": {
             "Miladmmd\\RabbitMq\\": "src/"
